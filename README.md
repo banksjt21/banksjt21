@@ -13,7 +13,7 @@ My ultimate goal is to work with a team that is truly passionate about what they
 
 - 👀 I’m interested in all things design and code.
 - 🌱 I’m currently learning the Google Cloud Platform.
-- 🎮 When I'm not designing/coding, I'm probably gaming.
+- 🎮 When I'm not designing or coding, I'm probably gaming.
 - 🚀 I'm currently available for full-time opportunities.
 - 🔗 Check out my portfolio at http://www.jermainebanks.com.
 - 📫 You can reach me at hello@jermainebanks.com.
